@@ -3,7 +3,7 @@
 I'm a 20-year-old developer based in Brazil specializing in Computer Science and Information Systems. 
 
 - Visit my [LinkedIn](https://www.linkedin.com/in/brunarcedro/) profile to discover more about me.
-- Check out my [Instagram](https://www.instagram.com/brucodes/) where I share valuable insights and learnings.
+- Check out my [Instagram](https://www.instagram.com/brucodes/) where I share my daily and learnings.
 - On my [Behance](https://www.behance.net/brunacedro) profile, you can find a showcase of my design projects.
 
 # **📦 Toolbox**
