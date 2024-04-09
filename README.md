@@ -1,4 +1,4 @@
-# **Hey, I'm Bruna**
+# **💫 Hey, I'm Bruna**
 
 I'm a 20-year-old developer based in Brazil specializing in Computer Science and Information Systems. 
 
