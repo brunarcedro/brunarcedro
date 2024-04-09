@@ -1,4 +1,4 @@
-# **💫 Hey, I'm Bruna**
+# **<h1 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hey, I'm Bruna**
 
 I'm a 20-year-old developer based in Brazil specializing in Computer Science and Information Systems. 
 
