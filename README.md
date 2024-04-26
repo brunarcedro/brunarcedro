@@ -16,24 +16,34 @@ I'm a 20-year-old developer based in Brazil specializing in Computer Science and
 - On my [Behance](https://www.behance.net/brunacedro) profile, you can find a showcase of my design projects.
 
 
-# **Toolbox**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="50" height="50" /> **Toolbox**
 
 **Frontend Development:** 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,ts,babel,bootstrap,jquery)](https://skillicons.dev)
+```HTML``` ```CSS``` ```JavaScript``` ```React``` ```React.js``` ```React Native``` ```Vue.js``` ```TypeScript``` ```Tailwind CSS``` ```NativeWind``` ```Ajax```
+
+**Backend Development:** 
+
+```Node.js``` ```SQLite``` ```MySQL``` ```PostgreSQL``` ```PHP``` ```C``` ```Python```
 
 
-**Backend Development** 
+**Design (UX/UI):** 
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,supabase,c,sqlite,nodejs,mysql,postgres,php,py)](https://skillicons.dev)
+```Figma```
+```Adobe Illustrator```
+```Adobe Photoshop```
+```After Effects```
+```Wireframing```
+```Prototyping```
+```Responsive Design```
+```Interaction Design```
+```Animation```
+```3D / Spline```
+
+**Others:** 
+
+```Zustand``` ```Scrum``` ```Expo``` ```Expo Router``` ```Git``` ```Bitbucket``` ```Postman``` ```Insomnia```
 
 
-**Others** 
-
-[![My Skills](https://skillicons.dev/icons?i=postman,yarn,vscode,sketchup,vercel,replit,pycharm,powershell,linux,bitbucket,git,npm)](https://skillicons.dev)
-
-
-**Design (UX/UI)** 
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ae,ai,ps,pr,xd,blender)](https://skillicons.dev)
-
+# **📫 Contact**
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/brunarcedro/).
