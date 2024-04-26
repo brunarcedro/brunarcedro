@@ -45,5 +45,5 @@ I'm a 20-year-old developer based in Brazil specializing in Computer Science and
 ```Zustand``` ```Scrum``` ```Expo``` ```Expo Router``` ```Git``` ```Bitbucket``` ```Postman``` ```Insomnia```
 
 
-# **📫 Contact**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> **Contact**
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/brunarcedro/).
